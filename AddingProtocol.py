@@ -1,5 +1,5 @@
 import csv
-file = open("FormatedDomains.csv", "w")
+file = open("FormattedDomains.csv", "w")
 
 domains = open('top500domains.csv', 'r')
 domainsReader = csv.reader(domains)
@@ -9,3 +9,4 @@ for domain in domains:
    file.write(domain + "\n")
 
 file.close()
+#Thanks (@azeemnow)
