@@ -1,5 +1,5 @@
-# AddingProtocol.py
-This script takes the CSV output of the 500 domains from (https://moz.com/top500) and adds "https://www." in front of each domain. The output from this script is saved in a new file called "FormattedDomains.csv".
+# getHostByIp.py
+This script reads in a list of IP addresses and uses Python's socket module to perform DNS Resolutions (IP to Hostname). The output of the script is written to a CSV file with the same name as the imported file; resulting in the replacment of the original file.
 
 Thanks. /azeemnow
 
