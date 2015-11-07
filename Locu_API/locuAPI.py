@@ -8,7 +8,7 @@ sys.stdout = codecs.getwriter("iso-8859-1")(sys.stdout, 'xmlcharrefreplace')
 import urllib2 #"defines functions and classes which help in opening URLs"
 import json #"JavaScript Object Notation"
 
-locu_api = 'ce35372f39cd107c83674ccb3e77c03b13e2a691'
+locu_api = '[redacted]'
 
 def locu_search(query): #seach by city name function
     api_key = locu_api
