@@ -1,5 +1,5 @@
 RandomScripts
 
-Collection of random scripts that have helped me through various tasks. 
+Collection of random scripts that I have written to help with various tasks. 
 
 Thanks -- @azeemnow
