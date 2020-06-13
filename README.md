@@ -1,5 +1,9 @@
-RandomScripts
+<h1> Random Scripts </h1>
 
-Collection of random scripts that I have written to help with various tasks. 
+<h4> Collection of random scripts. </h4>
 
-Thanks -- @azeemnow
+ - Data Lookup Between 2 CSV Files
+ - Hostnames to IPs
+ - IPs to Hostnames
+ - Locu API to quickally Search Restaurants
+ - Remove Leading Slash
