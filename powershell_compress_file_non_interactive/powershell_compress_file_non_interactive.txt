@@ -1,0 +1,27 @@
+##Modify the fileName value with the name of the file that you want to zip. the script will ##compress the file and create a .zip file with the same name in the current directory.
+
+###############################################################
+
+
+# Explicitly mention the file to be zipped
+$fileName = "REPLACE-WITH-THE-NAME-Of-THE-FILE-YOU-WANT-TO-COMPRESS"
+
+ 
+
+# Get the current directory
+$currentDirectory = Get-Location
+
+ 
+
+# Create a zip file with the same name as the original file
+$zipFileName = $fileName + ".zip"
+
+ 
+
+# Compress the file
+Compress-Archive -Path $fileName -DestinationPath $zipFileName
+
+ 
+
+# Write a message to the console
+Write-Host "The file '$fileName' has been compressed to '$zipFileName'."
