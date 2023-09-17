@@ -9,6 +9,8 @@
  - [IPs to Hostnames](https://github.com/azeemnow/RandomScripts/tree/master/IPAddressResolution)
  - [Locu API to quickally Search Restaurants](https://github.com/azeemnow/RandomScripts/tree/master/Locu_API)
  - [Remove Leading Slash](https://github.com/azeemnow/RandomScripts/tree/master/RemoveLeadingSlash)
-- [Lookup Info by Port or Service Name](https://github.com/azeemnow/RandomScripts/tree/master/SrvPortLookup) 
+-  [Lookup Info by Port or Service Name](https://github.com/azeemnow/RandomScripts/tree/master/SrvPortLookup)
+-  [Compress a File Using PowerShell](https://github.com/azeemnow/RandomScripts/tree/master/powershell_compress_file)
+
 
  
