@@ -5,6 +5,7 @@
 
 
  - [Data Lookup Between 2 CSV Files](https://github.com/azeemnow/RandomScripts/tree/master/CSV_FilesLookup)
+ - [Hash Files in a Directory](https://github.com/azeemnow/RandomScripts/tree/master/File-Hashing)
  - [Hostnames to IPs](https://github.com/azeemnow/RandomScripts/tree/master/HostnameResolution)
  - [IPs to Hostnames](https://github.com/azeemnow/RandomScripts/tree/master/IPAddressResolution)
  - [Locu API to quickally Search Restaurants](https://github.com/azeemnow/RandomScripts/tree/master/Locu_API)
