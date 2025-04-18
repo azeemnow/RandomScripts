@@ -14,6 +14,7 @@
 -  [Compress a File Using PowerShell](https://github.com/azeemnow/RandomScripts/tree/master/powershell_compress_file)
 -  [Compress a File Using PowerShell Non-Interactive](https://github.com/azeemnow/RandomScripts/tree/master/powershell_compress_file_non_interactive)
 -  [Confluence Keyword Search](https://github.com/azeemnow/RandomScripts/tree/master/confluence_keyword_search)
+-  [Garak Live Log File Monitor & Highlight](https://github.com/azeemnow/RandomScripts/tree/master/garak-log-monitor)
 
 
  
